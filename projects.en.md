@@ -9,3 +9,7 @@ Projects of Creative Studio union
 - Small Tricks
   Directory: smalltricks
   Private project
+
+- Star Revival
+  Directory: star-revival
+  Repository: https://github.com/star-revival/star-revival
